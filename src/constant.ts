@@ -1,0 +1,9 @@
+export const INPUT_DIM = 784;
+export const H_DIM = 100;
+export const OUTPUT_DIM = 10;
+export const BATCH_SIZE = 200;
+export const N_EPOCHS = 200;
+export const LEARNING_RATE = 0.1;
+export const TRAINING_DATA_SIZE = 40000;
+export const VALIDATION_DATA_SIZE = 1000;
+export const TEST_DATA_SIZE = 1000;

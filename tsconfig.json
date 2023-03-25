@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+      "target": "ES2021",
+      "strict" : true,
+      "alwaysStrict": true,
+      "noImplicitAny": true,
+      "noImplicitThis": true,
+      "downlevelIteration": true,
+      "esModuleInterop": true,
+      "baseUrl": "./src",       
+      "lib": [
+        "ES2021.String",
+        "DOM"
+      ],
+  }
+}
